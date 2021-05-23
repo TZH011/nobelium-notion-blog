@@ -2,7 +2,7 @@ const BLOG = {
   title: 'TZH011's blog',
   author: 'TZH011',
   email: 'leftchest@foxmail.com',
-  link: 'blog.hncaa.cn',
+  link: 'nobelium.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
